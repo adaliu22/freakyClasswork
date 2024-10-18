@@ -10,6 +10,8 @@ body {
   
   .container{
     background: white;
+    font-family: 'Georgia', serif;
+    color: goldenrod;
     opacity: 0.90;
     max-width: 80%; 
     margin: auto; /* this helps centering */
@@ -41,10 +43,11 @@ body {
   }
   
   #increment-btn {
-   background: #2C2891;;
+  
+    background: indianred;
   }
   
   #save-btn {
-    background: #660063;
+    background: maroon;
   }
   
